@@ -1,0 +1,112 @@
+[16:35:19] [main/INFO]: Writing debug log file accesstransform.log
+[16:35:19] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:37:32] [main/INFO]: Writing debug log file accesstransform.log
+[16:37:32] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:39:48] [main/INFO]: Writing debug log file accesstransform.log
+[16:39:48] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:40:59] [main/INFO]: Writing debug log file accesstransform.log
+[16:40:59] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:42:49] [main/INFO]: Writing debug log file accesstransform.log
+[16:42:49] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:43:51] [main/INFO]: Writing debug log file accesstransform.log
+[16:43:51] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:45:03] [main/INFO]: Writing debug log file accesstransform.log
+[16:45:03] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more
+[16:46:01] [main/INFO]: Writing debug log file accesstransform.log
+[16:46:01] [main/ERROR]: Option Parsing Error
+net.minecraftforge.accesstransformer.shadow.joptsimple.OptionArgumentConversionException: Cannot parse argument 'C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg' of option atFile/atfile
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:92) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:277) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.OptionSet.valuesOf(OptionSet.java:223) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.values(AbstractOptionSpec.java:62) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.TransformerProcessor.main(TransformerProcessor.java:75) ~[accesstransformers-8.2.14-fatjar.jar:8.2.14]
+Caused by: net.minecraftforge.accesstransformer.shadow.joptsimple.ValueConversionException: File [C:\Users\IHATENIGGERS\Desktop\hizli yapi modu\build\_atJar_4\parent_at.cfg] does not exist
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:28) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.util.PathConverter.convert(PathConverter.java:14) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.internal.Reflection.convertWith(Reflection.java:124) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	at net.minecraftforge.accesstransformer.shadow.joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:90) ~[accesstransformers-8.2.14-fatjar.jar:?]
+	... 4 more

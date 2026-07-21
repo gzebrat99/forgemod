@@ -1,0 +1,32 @@
+{
+  "key.categories.quickbuild": "Quick Build & Vein Miner",
+  "key.quickbuild.vein_mine": "Vein Mine / Area Mine (Hold)",
+  "key.quickbuild.open_gui": "Open Config Menu",
+  "key.quickbuild.toggle_mode": "Toggle Mining/Building Mode",
+  "key.quickbuild.undo": "Undo Last Structure",
+
+  "gui.quickbuild.title": "Quick Build & Vein Miner Config",
+  "gui.quickbuild.mining_settings": "Mining Settings",
+  "gui.quickbuild.build_settings": "Building Settings",
+  "gui.quickbuild.mode": "Mode:",
+  "gui.quickbuild.mode.mining": "Mining Mode",
+  "gui.quickbuild.mode.building": "Building Mode",
+  "gui.quickbuild.vein_type": "Vein Mining Type:",
+  "gui.quickbuild.vein_type.same": "Same Block Type",
+  "gui.quickbuild.vein_type.area": "Area Mining",
+  "gui.quickbuild.mining_size": "Mining Size (1x1 to %dx%d):",
+  "gui.quickbuild.shape": "Build Shape:",
+  "gui.quickbuild.shape.plane": "Plane / Wall",
+  "gui.quickbuild.shape.circle": "Circle",
+  "gui.quickbuild.shape.sphere": "Sphere",
+  "gui.quickbuild.shape.hollow_sphere": "Hollow Sphere",
+  "gui.quickbuild.shape.cylinder": "Cylinder",
+  "gui.quickbuild.build_size": "Build Size (1x1 to %dx%d):",
+  "gui.quickbuild.save": "Save & Close",
+
+  "message.quickbuild.tool_broken": "§cAletiniz kırıldığı için kazma işlemi durduruldu!",
+  "message.quickbuild.undo_success": "§aSon yapı işlemi başarıyla geri alındı (%d blok).",
+  "message.quickbuild.undo_none": "§cGeri alınacak yapı işlemi bulunamadı.",
+  "message.quickbuild.undo_cancelled": "§eDevam eden yapı işlemi iptal edildi ve koyulan bloklar geri alındı.",
+  "message.quickbuild.limit_exceeded": "§cİstenen boyut sunucu limitini aşıyor (%d max)!"
+}
